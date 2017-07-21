@@ -1,4 +1,4 @@
-<% project_name = 'rails-api-cookbook-lab' %>
+<% project_name = 'para-heba' %>
 
 default: &default
   adapter: postgresql
