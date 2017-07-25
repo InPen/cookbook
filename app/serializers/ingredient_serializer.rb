@@ -1,4 +1,4 @@
 # frozen_string_literal: true
 class IngredientSerializer < ActiveModel::Serializer
-  attributes :id, :quantity, :unit
+  attributes :id, :name, :quantity, :unit
 end
